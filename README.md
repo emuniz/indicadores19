@@ -1,4 +1,4 @@
-# Estados com casos de CODVID 19 confirmados. 
+# Estados e cidades da Bahia com casos de CODVID 19 confirmados. 
 
  Ultima atualização dos dados, 18/03/2020
 
