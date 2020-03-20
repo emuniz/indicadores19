@@ -5,6 +5,3334 @@
     "Casos": "27",
     "Mortes": "0",
     "placeId": "ChIJvS5CUCARFgcRndtzlTaEHPc"
+},
+{
+    "ID": "2",
+    "Sigla": "BR-BA",
+    "Nome": "Abaíra",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJdTU-gOS5QwcRKBwlQM4YVOM"
+},
+{
+    "ID": "3",
+    "Sigla": "BR-BA",
+    "Nome": "Abaré",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJY2OlglNOCgcRxlWSnFMCc1w"
+},
+{
+    "ID": "4",
+    "Sigla": "BR-BA",
+    "Nome": "Acajutiba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ4c5NvkogEQcRA6_UlkFAz5A"
+},
+{
+    "ID": "5",
+    "Sigla": "BR-BA",
+    "Nome": "Adustina",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJg_QbqF4wDgcR9AkCT0q617s"
+},
+{
+    "ID": "6",
+    "Sigla": "BR-BA",
+    "Nome": "Água Fria",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJrUHrR-MGFAcRqyVj8zZTiuI"
+},
+{
+    "ID": "7",
+    "Sigla": "BR-BA",
+    "Nome": "Aiquara",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJPWXOmiisOAcRgTl_I0MoUA4"
+},
+{
+    "ID": "8",
+    "Sigla": "BR-BA",
+    "Nome": "Alagoinhas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJzZ33ZEa8FgcRgPspuiwLdaI"
+},
+{
+    "ID": "9",
+    "Sigla": "BR-BA",
+    "Nome": "Alcobaça",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJKczkHo3mNAcRfF4k9Iq7aLI"
+},
+{
+    "ID": "10",
+    "Sigla": "BR-BA",
+    "Nome": "Almadina",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_wbS--VfOAcRX7hoSQIDHmU"
+},
+{
+    "ID": "11",
+    "Sigla": "BR-BA",
+    "Nome": "Amargosa",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJfULlDtvcPwcRS2QZqkRTv5Q"
+},
+{
+    "ID": "12",
+    "Sigla": "BR-BA",
+    "Nome": "Amélia Rodrigues",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJkxtxoYosFAcRJCH8LPyXUXU"
+},
+{
+    "ID": "13",
+    "Sigla": "BR-BA",
+    "Nome": "América Dourada",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJp_gqsAlSaQcRfN_AwQhLo_s"
+},
+{
+    "ID": "14",
+    "Sigla": "BR-BA",
+    "Nome": "Anagé",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJyVazux5yRgcRKYoWMArLcOE"
+},
+{
+    "ID": "15",
+    "Sigla": "BR-BA",
+    "Nome": "Andaraí",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJtWH4N4weQgcRP46C7N1MDjM"
+},
+{
+    "ID": "16",
+    "Sigla": "BR-BA",
+    "Nome": "Andorinha",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJx7om5RhQDQcRQQcLO_o09Hc"
+},
+{
+    "ID": "17",
+    "Sigla": "BR-BA",
+    "Nome": "Angical",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJa0Ns_WHnXwcR8iaOeSc2mvQ"
+},
+{
+    "ID": "18",
+    "Sigla": "BR-BA",
+    "Nome": "Anguera",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJIeOjvWVZFAcRkqWfGV3xvBE"
+},
+{
+    "ID": "19",
+    "Sigla": "BR-BA",
+    "Nome": "Antas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJKc9-tMFqDgcREulY1Hid5zA"
+},
+{
+    "ID": "20",
+    "Sigla": "BR-BA",
+    "Nome": "Antônio Cardoso",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ0fRjdymyFQcRD-NyUJ42l8k"
+},
+{
+    "ID": "21",
+    "Sigla": "BR-BA",
+    "Nome": "Antônio Gonçalves",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJtbWUntlCbQcROOf68XxvY9E"
+},
+{
+    "ID": "22",
+    "Sigla": "BR-BA",
+    "Nome": "Aporá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJvWl21jgiEQcRET9z8Kv3aYY"
+},
+{
+    "ID": "23",
+    "Sigla": "BR-BA",
+    "Nome": "Apuarema",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ2QKjwhVEPwcR5nVXn8a7Adc"
+},
+{
+    "ID": "24",
+    "Sigla": "BR-BA",
+    "Nome": "Araças",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJf8UXL3bCFgcR6apLERUqB5A"
+},
+{
+    "ID": "25",
+    "Sigla": "BR-BA",
+    "Nome": "Araci",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJoWaieUPIEwcRcdHVJLMyqBU"
+},
+{
+    "ID": "26",
+    "Sigla": "BR-BA",
+    "Nome": "Aramari",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ7Tce-rekFgcRnVd_NMRR4LM"
+},
+{
+    "ID": "27",
+    "Sigla": "BR-BA",
+    "Nome": "Arataca",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ1TtAY7kuOAcRueE0WDbs69Q"
+},
+{
+    "ID": "28",
+    "Sigla": "BR-BA",
+    "Nome": "Aratuípe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ15d2RRkiPgcRz7G4t4bTuGI"
+},
+{
+    "ID": "29",
+    "Sigla": "BR-BA",
+    "Nome": "Aurelino Leal",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJY8ZWQ3LYOAcRV8eIAz4H3Hk"
+},
+{
+    "ID": "30",
+    "Sigla": "BR-BA",
+    "Nome": "Baianópolis",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJm6L7ua-wXwcR8-btoiS1twI"
+},
+{
+    "ID": "31",
+    "Sigla": "BR-BA",
+    "Nome": "Baixa Grande",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ4YASlJM5awcR2H6ZkLbK4-Q"
+},
+{
+    "ID": "32",
+    "Sigla": "BR-BA",
+    "Nome": "Banzaê",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJW84aFNgGDgcROTgv5z7Dgsc"
+},
+{
+    "ID": "33",
+    "Sigla": "BR-BA",
+    "Nome": "Barra da Estiva",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ4eq9Tdj8QwcRAodbujcT9T8"
+},
+{
+    "ID": "34",
+    "Sigla": "BR-BA",
+    "Nome": "Barra do Choça",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJLSNUo5bLRwcRFBJD_aGEz4g"
+},
+{
+    "ID": "35",
+    "Sigla": "BR-BA",
+    "Nome": "Barra do Mendes",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJO0QnAcb5aAcRZimaVQobm7U"
+},
+{
+    "ID": "36",
+    "Sigla": "BR-BA",
+    "Nome": "Barra do Rocha",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJB0SV2hrJOAcRvJ3uy5IPil0"
+},
+{
+    "ID": "37",
+    "Sigla": "BR-BA",
+    "Nome": "Barreiras",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJaa7UEK6KXwcRxbgtLDYPgZc"
+},
+{
+    "ID": "38",
+    "Sigla": "BR-BA",
+    "Nome": "Barro Alto",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJyUiE6JECaQcR5K3A8yrpBXA"
+},
+{
+    "ID": "39",
+    "Sigla": "BR-BA",
+    "Nome": "Barra",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJeSK7HIh_ZgcRODBHDZMcoV0"
+},
+{
+    "ID": "40",
+    "Sigla": "BR-BA",
+    "Nome": "Aracatu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJMd9em0rORQcRO7knMEt37bk"
+},
+{
+    "ID": "41",
+    "Sigla": "BR-BA",
+    "Nome": "Barrocas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_0pWzX-WEwcR95pBa-CBvG0"
+},
+{
+    "ID": "42",
+    "Sigla": "BR-BA",
+    "Nome": "Barro Preto",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJu0JDpkBXOAcRHMYS9yWrp40"
+},
+{
+    "ID": "43",
+    "Sigla": "BR-BA",
+    "Nome": "Belmonte",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJQ2w5Zdk7NwcRHA8HQA4o-vU"
+},
+{
+    "ID": "44",
+    "Sigla": "BR-BA",
+    "Nome": "Belo Campo",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJx33qS1-rSAcRP0zB11I0KxQ"
+},
+{
+    "ID": "45",
+    "Sigla": "BR-BA",
+    "Nome": "Biritinga",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJjUD_h8PlEwcRwhU2lkkxpAk"
+},
+{
+    "ID": "46",
+    "Sigla": "BR-BA",
+    "Nome": "Boa Nova",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJzQZM2LduRwcRmwAII0P54b8"
+},
+{
+    "ID": "47",
+    "Sigla": "BR-BA",
+    "Nome": "Boa Vista do Tupim",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJvZcJn_eAagcRAYHFB8z5EoY"
+},
+{
+    "ID": "48",
+    "Sigla": "BR-BA",
+    "Nome": "Bom Jesus da Lapa",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJx-cEjAN0XAcRh57dIdoBG7Y"
+},
+{
+    "ID": "49",
+    "Sigla": "BR-BA",
+    "Nome": "Bom Jesus da Serra",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJsXKTYNUERwcRdxOoFQr14us"
+},
+{
+    "ID": "50",
+    "Sigla": "BR-BA",
+    "Nome": "Boninal",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ84VSxbpmQgcRl06JjWFtaeA"
+},
+{
+    "ID": "51",
+    "Sigla": "BR-BA",
+    "Nome": "Bonito",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJC2TD723VawcR8aSOCEk2Qx8"
+},
+{
+    "ID": "52",
+    "Sigla": "BR-BA",
+    "Nome": "Boquira",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJH3CGtgEmXQcR-wJheY6Ye90"
+},
+{
+    "ID": "53",
+    "Sigla": "BR-BA",
+    "Nome": "Botuporã",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJn89NHuZSQwcRV_-y2f7xVKs"
+},
+{
+    "ID": "54",
+    "Sigla": "BR-BA",
+    "Nome": "Brejões",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJEQ6RBpntPwcRqHkXQNM5z04"
+},
+{
+    "ID": "55",
+    "Sigla": "BR-BA",
+    "Nome": "Brejolândia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJdd1n7JlvXgcR5N4fdHZvP_k"
+},
+{
+    "ID": "56",
+    "Sigla": "BR-BA",
+    "Nome": "Brotas de Macaúbas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ72-EsIDeZwcRv-5L4o-XEXQ"
+},
+{
+    "ID": "57",
+    "Sigla": "BR-BA",
+    "Nome": "Brumado",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJX6sNUOVLRAcRXfarxS6mV30"
+},
+{
+    "ID": "58",
+    "Sigla": "BR-BA",
+    "Nome": "Buerarema",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJh0mmvNyyOQcRLkUsv_8E70w"
+},
+{
+    "ID": "59",
+    "Sigla": "BR-BA",
+    "Nome": "Buritirama",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJZ3GeLasSZAcR140lwKHNaRI"
+},
+{
+    "ID": "60",
+    "Sigla": "BR-BA",
+    "Nome": "Caatiba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJIV5zlZTERwcRYvzey2jXGZQ"
+},
+{
+    "ID": "61",
+    "Sigla": "BR-BA",
+    "Nome": "Cabaceiras do Paraguaçu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJmcFFHfCkFQcR1IkYb964rVk"
+},
+{
+    "ID": "62",
+    "Sigla": "BR-BA",
+    "Nome": "Cachoeira",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ5W8BtATHFQcRcnrRWtlz9Y0"
+},
+{
+    "ID": "63",
+    "Sigla": "BR-BA",
+    "Nome": "Caculé",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ8a167W5qRQcRvmtgNiN8nmQ"
+},
+{
+    "ID": "64",
+    "Sigla": "BR-BA",
+    "Nome": "Caém",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ1fqtxbHlbAcR1rveNUjHSNU"
+},
+{
+    "ID": "65",
+    "Sigla": "BR-BA",
+    "Nome": "Caetanos",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJdwN52KHzRgcRD8VuXZpJtU4"
+},
+{
+    "ID": "66",
+    "Sigla": "BR-BA",
+    "Nome": "Caetité",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJnUbsJc_VRAcRUi3vIcV6IOk"
+},
+{
+    "ID": "67",
+    "Sigla": "BR-BA",
+    "Nome": "Cafarnaum",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJAUzriEZoaQcRT"
+},
+{
+    "ID": "68",
+    "Sigla": "BR-BA",
+    "Nome": "Cairu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ68NrY0FcPgcR4Lnyd6YwYoY"
+},
+{
+    "ID": "69",
+    "Sigla": "BR-BA",
+    "Nome": "Caldeirão Grande",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ5zCo987fbAcRRIYGQymK730"
+},
+{
+    "ID": "70",
+    "Sigla": "BR-BA",
+    "Nome": "Camacan",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJqaxyiKyINwcRPb_UfvFK-h8"
+},
+{
+    "ID": "71",
+    "Sigla": "BR-BA",
+    "Nome": "Camaçari",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJoRjgVNtpFgcRrShOetcICdo"
+},
+{
+    "ID": "72",
+    "Sigla": "BR-BA",
+    "Nome": "Camamu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJARNrHqLDPgcR2Eece3jeIV0"
+},
+{
+    "ID": "73",
+    "Sigla": "BR-BA",
+    "Nome": "Campo Alegre de Lourdes",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJn7efm5jwegcR6MA0qTrs6cA"
+},
+{
+    "ID": "74",
+    "Sigla": "BR-BA",
+    "Nome": "Campo Formoso",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJL0hwNXdnbQcRDDxTPYlqLVQ"
+},
+{
+    "ID": "75",
+    "Sigla": "BR-BA",
+    "Nome": "Canápolis",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJP5lXWYPOXgcRmq5uBBQmrK4"
+},
+{
+    "ID": "76",
+    "Sigla": "BR-BA",
+    "Nome": "Canarana",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJbXvxh_gZaQcRBSrRTMwTrg4"
+},
+{
+    "ID": "77",
+    "Sigla": "BR-BA",
+    "Nome": "Canavieiras",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJg5Ci_jBCNwcRG9X5fzZe0g0"
+},
+{
+    "ID": "78",
+    "Sigla": "BR-BA",
+    "Nome": "Candeal",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJuYAPQVV2FAcRuIm-VQV-G60"
+},
+{
+    "ID": "79",
+    "Sigla": "BR-BA",
+    "Nome": "Candeias",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJZ1Qg-BpxFgcRJHvQMAc5tRo"
+},
+{
+    "ID": "80",
+    "Sigla": "BR-BA",
+    "Nome": "Candiba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJcer2myiWWgcRw8nYLx6I6Jc"
+},
+{
+    "ID": "81",
+    "Sigla": "BR-BA",
+    "Nome": "Cândido Sales",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJp9TsB2PUSAcRYV5osRw0GP8"
+},
+{
+    "ID": "82",
+    "Sigla": "BR-BA",
+    "Nome": "Cansanção",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ6xF2-LCaEgcRFHGTZYH44Bc"
+},
+{
+    "ID": "83",
+    "Sigla": "BR-BA",
+    "Nome": "Canudos",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJLytfSmlODAcRT0pwk4Xj8m4"
+},
+{
+    "ID": "84",
+    "Sigla": "BR-BA",
+    "Nome": "Capela do Alto Alegre",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_9Ya1xWoFAcRPuo-JobwZfM"
+},
+{
+    "ID": "85",
+    "Sigla": "BR-BA",
+    "Nome": "Capim Grosso",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJcer2myiWWgcRw8nYLx6I6Jc"
+},
+{
+    "ID": "86",
+    "Sigla": "BR-BA",
+    "Nome": "Caraíbas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJq8k5xxwKRgcRX_NGnZUegPQ"
+},
+{
+    "ID": "87",
+    "Sigla": "BR-BA",
+    "Nome": "Caravelas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJxfHA6WDXNAcRKyOidy6rERI"
+},
+{
+    "ID": "88",
+    "Sigla": "BR-BA",
+    "Nome": "Cardeal da Silva",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ0XldqDrVEAcRdUlJGZCs3Pg"
+},
+{
+    "ID": "89",
+    "Sigla": "BR-BA",
+    "Nome": "Carinhanha",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ3cbPUBQCWgcRIbhsl8HYFg8"
+},
+{
+    "ID": "90",
+    "Sigla": "BR-BA",
+    "Nome": "Casa Nova",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJj1udQ171cwcRHa-asOZSfIU"
+},
+{
+    "ID": "91",
+    "Sigla": "BR-BA",
+    "Nome": "Castro Alves",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJCRiHYphwFQcR35F__vPWE8E"
+},
+{
+    "ID": "92",
+    "Sigla": "BR-BA",
+    "Nome": "Catolândia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJrVHkTUOFXwcRGLmONmAdXQU"
+},
+{
+    "ID": "93",
+    "Sigla": "BR-BA",
+    "Nome": "Catu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJa9gntJKNFgcRbr67bj-8150"
+},
+{
+    "ID": "94",
+    "Sigla": "BR-BA",
+    "Nome": "Caturama",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJHeFHpGFBQwcRtyyEgn16vUU"
+},
+{
+    "ID": "95",
+    "Sigla": "BR-BA",
+    "Nome": "Central",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJrVHkTUOFXwcRGLmONmAdXQU"
+},
+{
+    "ID": "96",
+    "Sigla": "BR-BA",
+    "Nome": "Chorrochó",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJd2MtH-ywCwcRotbwiO_jvzs"
+},
+{
+    "ID": "97",
+    "Sigla": "BR-BA",
+    "Nome": "Cícero Dantas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ8yREMw0ZDgcRr1bTIBMN8is"
+},
+{
+    "ID": "98",
+    "Sigla": "BR-BA",
+    "Nome": "Cipó",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJiRtQlpmPEQcRmrdfU6eWtx4"
+},
+{
+    "ID": "99",
+    "Sigla": "BR-BA",
+    "Nome": "Coaraci",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJO-2EIbP2OAcRqSG2U01QxEA"
+},
+{
+    "ID": "100",
+    "Sigla": "BR-BA",
+    "Nome": "Cocos",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ76zUG4ooWAcRHe5XV-ToW_Q"
+},
+{
+    "ID": "101",
+    "Sigla": "BR-BA",
+    "Nome": "Conceição da Feira",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJsXyTKs63FQcReVG-UcmNJJ0"
+},
+{
+    "ID": "102",
+    "Sigla": "BR-BA",
+    "Nome": "Conceição do Almeida",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJfZRdT9SEFQcRW0FmJxZgPug"
+},
+{
+    "ID": "103",
+    "Sigla": "BR-BA",
+    "Nome": "Conceição do Coité",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJO-2EIbP2OAcRqSG2U01QxEA"
+},
+{
+    "ID": "104",
+    "Sigla": "BR-BA",
+    "Nome": "Conceição do Jacuípe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJU8q-5_EuFAcRz9HNe1j-22o"
+},
+{
+    "ID": "105",
+    "Sigla": "BR-BA",
+    "Nome": "Conde",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJB-VluPW4EAcRcsPDSmK1aSs"
+},
+{
+    "ID": "106",
+    "Sigla": "BR-BA",
+    "Nome": "Condeúba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJm15U0seDTwcR3CjaYijCL8Q"
+},
+{
+    "ID": "107",
+    "Sigla": "BR-BA",
+    "Nome": "Contendas do Sincorá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJIyDQuXlMQQcRnOHZ7PP5-sM"
+},
+{
+    "ID": "108",
+    "Sigla": "BR-BA",
+    "Nome": "Coração de Maria",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJyVeEiC8kFAcROcYZBUea-cs"
+},
+{
+    "ID": "109",
+    "Sigla": "BR-BA",
+    "Nome": "Cordeiros",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJOTLg-gueTwcRQpeRNWRu8y8"
+},
+{
+    "ID": "110",
+    "Sigla": "BR-BA",
+    "Nome": "Coribe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJhUwFd-pNWAcR8dNq-g4VkM0"
+},
+{
+    "ID": "111",
+    "Sigla": "BR-BA",
+    "Nome": "Coronel João Sá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ3x2rUretDwcRkaKwwQiItto"
+},
+{
+    "ID": "112",
+    "Sigla": "BR-BA",
+    "Nome": "Correntina",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJMY0duBrqWAcRlVSlmvDUBGM"
+},
+{
+    "ID": "113",
+    "Sigla": "BR-BA",
+    "Nome": "Cotegipe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJo6j7hHIoXgcRGLuke5b-Igk"
+},
+{
+    "ID": "114",
+    "Sigla": "BR-BA",
+    "Nome": "Cravolândia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJo4htFEWbPwcR4aiDVULRjnA"
+},
+{
+    "ID": "115",
+    "Sigla": "BR-BA",
+    "Nome": "Crisópolis",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJSe94tn4QEQcRf7X-WDJDXMA"
+},
+{
+    "ID": "116",
+    "Sigla": "BR-BA",
+    "Nome": "Cristópolis",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJhUwFd-pNWAcR8dNq-g4VkM0"
+},
+{
+    "ID": "117",
+    "Sigla": "BR-BA",
+    "Nome": "Cruz das Almas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJcTTbuIi9FQcReX4Ldy1W8ao"
+},
+{
+    "ID": "118",
+    "Sigla": "BR-BA",
+    "Nome": "Curaçá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJL7W-0Ck0CwcRLNKqZercVNQ"
+},
+{
+    "ID": "119",
+    "Sigla": "BR-BA",
+    "Nome": "Dário Meira",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJORPKnwycOAcRfKc7aWNDDmk"
+},
+{
+    "ID": "120",
+    "Sigla": "BR-BA",
+    "Nome": "Dias d'Ávila",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJkR7w6U1cFgcRYWifOd2pTUI"
+},
+{
+    "ID": "121",
+    "Sigla": "BR-BA",
+    "Nome": "Dom Basílio",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJdUH5amd6RAcRYc_3nZ1fcw4"
+},
+{
+    "ID": "122",
+    "Sigla": "BR-BA",
+    "Nome": "Dom Macedo Costa",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ3YqOR16GFQcRzcGiQ6UNE4g"
+},
+{
+    "ID": "123",
+    "Sigla": "BR-BA",
+    "Nome": "Elísio Medrado",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_-_oqk7YPwcRr7GgfAJQUUs"
+},
+{
+    "ID": "124",
+    "Sigla": "BR-BA",
+    "Nome": "Encruzilhada",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJSfK_pfHmSAcRJzj2o7EReeI"
+},
+{
+    "ID": "125",
+    "Sigla": "BR-BA",
+    "Nome": "Entre Rios",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_95QKDTTFgcRXsCBfygbREc"
+},
+{
+    "ID": "126",
+    "Sigla": "BR-BA",
+    "Nome": "Érico Cardoso",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJp_HVfUBvQwcRz8wd-2soKwc"
+},
+{
+    "ID": "127",
+    "Sigla": "BR-BA",
+    "Nome": "Esplanada",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJRZICBzHYEAcR7QWveqanoxQ"
+},
+{
+    "ID": "128",
+    "Sigla": "BR-BA",
+    "Nome": "Euclides da Cunha",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJn88REOqMDQcRZq9tGUHtKCI"
+},
+{
+    "ID": "129",
+    "Sigla": "BR-BA",
+    "Nome": "Eunápolis",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ9VgKIi9sNgcRADGZ3mTVpUo"
+},
+{
+    "ID": "130",
+    "Sigla": "BR-BA",
+    "Nome": "Fátima",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJGS7wqXEkDgcRVDCt9tt4d44"
+},
+{
+    "ID": "131",
+    "Sigla": "BR-BA",
+    "Nome": "Feira da Mata",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ6T_4UMnQWQcRM9gPxSEicLM"
+},
+{
+    "ID": "132",
+    "Sigla": "BR-BA",
+    "Nome": "Feira de Santana",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ-5oP8Y03FAcRpkpveYIP8LU"
+},
+{
+    "ID": "133",
+    "Sigla": "BR-BA",
+    "Nome": "Filadélfia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ9VgKIi9sNgcRADGZ3mTVpUo"
+},
+{
+    "ID": "134",
+    "Sigla": "BR-BA",
+    "Nome": "Firmino Alves",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJX-0hAKcLOAcR7fbt3xylEac"
+},
+{
+    "ID": "135",
+    "Sigla": "BR-BA",
+    "Nome": "Floresta Azul",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ27eDvRhoOAcRLkV72BmQms4"
+},
+{
+    "ID": "136",
+    "Sigla": "BR-BA",
+    "Nome": "Formosa do Rio Preto",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJFwuMmvu4NJMRbLU9Tmjn-Tk"
+},
+{
+    "ID": "137",
+    "Sigla": "BR-BA",
+    "Nome": "Gandu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJPbdFkvAZPwcRUNu_f_NEnPA"
+},
+{
+    "ID": "138",
+    "Sigla": "BR-BA",
+    "Nome": "Gavião",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ2VJeSK1FEwcR_Elw0chs3A8"
+},
+{
+    "ID": "139",
+    "Sigla": "BR-BA",
+    "Nome": "Gentio do Ouro",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJaey3TuGgaAcRXfoBa6FNYGM"
+},
+{
+    "ID": "140",
+    "Sigla": "BR-BA",
+    "Nome": "Glória",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJg0WCuQE5CQcRYfJpIMG9iuo"
+},
+{
+    "ID": "141",
+    "Sigla": "BR-BA",
+    "Nome": "Gongogi",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJz18nyTzbOAcRHCgWnpAfRZo"
+},
+{
+    "ID": "142",
+    "Sigla": "BR-BA",
+    "Nome": "Governador Mangabeira",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ8SSU-tq4FQcR1roYv9d3Iyc"
+},
+{
+    "ID": "143",
+    "Sigla": "BR-BA",
+    "Nome": "Guajeru",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJb9EpLwp1RQcRM6fupUtaAek"
+},
+{
+    "ID": "144",
+    "Sigla": "BR-BA",
+    "Nome": "Guanambi",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJT1UU5nvEWgcRdPTmL9-mtLY"
+},
+{
+    "ID": "145",
+    "Sigla": "BR-BA",
+    "Nome": "Guaratinga",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJhYns7w7jNQcRmas9EQKIhRs"
+},
+{
+    "ID": "146",
+    "Sigla": "BR-BA",
+    "Nome": "Heliópolis",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJZQI-ukMgDgcRQxTmWvirv7A"
+},
+{
+    "ID": "147",
+    "Sigla": "BR-BA",
+    "Nome": "Iaçu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJx5DMkWenagcRmGpHYBnlm4I"
+},
+{
+    "ID": "148",
+    "Sigla": "BR-BA",
+    "Nome": "Ibiassucê",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJdb5i7vUiRQcRcuUlKmuImBE"
+},
+{
+    "ID": "149",
+    "Sigla": "BR-BA",
+    "Nome": "Ibicaraí",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJY3v-0cpcOAcRkurnjhnxFH4"
+},
+{
+    "ID": "150",
+    "Sigla": "BR-BA",
+    "Nome": "Ibicoara",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJc87umWDfQwcR4Pb8qdkMnPY"
+},
+{
+    "ID": "151",
+    "Sigla": "BR-BA",
+    "Nome": "Ibicuí",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ34nkxdiJRwcRWoRuudP9ohY"
+},
+{
+    "ID": "152",
+    "Sigla": "BR-BA",
+    "Nome": "Ibipeba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJGUKVS6DmaAcRvl72dtlCY58"
+},
+{
+    "ID": "153",
+    "Sigla": "BR-BA",
+    "Nome": "Ibipitanga",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJHxMISjrUQgcR78Os1ujKfxc"
+},
+{
+    "ID": "154",
+    "Sigla": "BR-BA",
+    "Nome": "Ibiquera",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJLZVH74vfQQcR3bLqchMHIUk"
+},
+{
+    "ID": "155",
+    "Sigla": "BR-BA",
+    "Nome": "Ibirapitanga",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ2Uf3x8DUOAcRstekq8kMS10"
+},
+{
+    "ID": "156",
+    "Sigla": "BR-BA",
+    "Nome": "Ibirapuã",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_T55L9hStQARDHFK0XYZ6c8"
+},
+{
+    "ID": "157",
+    "Sigla": "BR-BA",
+    "Nome": "Ibirataia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJXassIUM1PwcROmBjVeCEAwQ"
+},
+{
+    "ID": "158",
+    "Sigla": "BR-BA",
+    "Nome": "Ibitiara",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJF2OFF5-VQgcRGgXaWJhXWCM"
+},
+{
+    "ID": "159",
+    "Sigla": "BR-BA",
+    "Nome": "Ibititá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ3YcV9PXeaAcRgGj6aoeakA4"
+},
+{
+    "ID": "160",
+    "Sigla": "BR-BA",
+    "Nome": "Ibotirama",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ-b34x1N-ZwcR_vCnQcp34Jw"
+},
+{
+    "ID": "161",
+    "Sigla": "BR-BA",
+    "Nome": "Ichu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ1S2hn5qHEwcRPt51PFALXQM"
+},
+{
+    "ID": "162",
+    "Sigla": "BR-BA",
+    "Nome": "Igaporã",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJlVYTNBE4WwcR_dYxxb5XHZQ"
+},
+{
+    "ID": "163",
+    "Sigla": "BR-BA",
+    "Nome": "Igrapiúna",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJZUl2ZJLoPgcRTN0OxaCaw9o"
+},
+{
+    "ID": "164",
+    "Sigla": "BR-BA",
+    "Nome": "Iguaí",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJLf0QcYmFRwcR0inPsCUe2l0"
+},
+{
+    "ID": "165",
+    "Sigla": "BR-BA",
+    "Nome": "Ilhéus",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJdyodez8KOQcR6kMZQCBZV_w"
+},
+{
+    "ID": "166",
+    "Sigla": "BR-BA",
+    "Nome": "Inhambupe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJy-eMD6tJEQcR6Vcn9L7aP6g"
+},
+{
+    "ID": "167",
+    "Sigla": "BR-BA",
+    "Nome": "Ipecaetá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJtZ3xKJ5VFAcR4ygNxSg3z1w"
+},
+{
+    "ID": "168",
+    "Sigla": "BR-BA",
+    "Nome": "Ipiaú",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJT_9UlYqzOAcRNNjrEDVs8HE"
+},
+{
+    "ID": "169",
+    "Sigla": "BR-BA",
+    "Nome": "Ipirá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJc_nSGYfbFAcRzC2QGO7Lu58"
+},
+{
+    "ID": "170",
+    "Sigla": "BR-BA",
+    "Nome": "Ipupiara",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJKRkNuKfWZwcRrdwuNIAX2MU"
+},
+{
+    "ID": "171",
+    "Sigla": "BR-BA",
+    "Nome": "Irajuba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJyYRgoLFwQAcRSzK324d44no"
+},
+{
+    "ID": "172",
+    "Sigla": "BR-BA",
+    "Nome": "Iramaia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJGewmIrN0QQcRRSlr8bA7MkQ"
+},
+{
+    "ID": "173",
+    "Sigla": "BR-BA",
+    "Nome": "Iraquara",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_2goATjAaQcRkFnQFawByag"
+},
+{
+    "ID": "174",
+    "Sigla": "BR-BA",
+    "Nome": "Irará",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJM5yqt9gbFAcRpsepaxquDVg"
+},
+{
+    "ID": "175",
+    "Sigla": "BR-BA",
+    "Nome": "Irecê",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJQY14lbDUbgcR-e2u3cGKnOg"
+},
+{
+    "ID": "176",
+    "Sigla": "BR-BA",
+    "Nome": "Itabela",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJm52ZZbDYNQcRMCoULyGOuWM"
+},
+{
+    "ID": "177",
+    "Sigla": "BR-BA",
+    "Nome": "Itaberaba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJkyDoKQO-agcRFsxxGNo8QXE"
+},
+{
+    "ID": "178",
+    "Sigla": "BR-BA",
+    "Nome": "Itabuna",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ--IExB6rOQcRZysfWJNymsk"
+},
+{
+    "ID": "179",
+    "Sigla": "BR-BA",
+    "Nome": "Itacaré",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ89i6kfo1OQcRNunP8YjtEjQ"
+},
+{
+    "ID": "180",
+    "Sigla": "BR-BA",
+    "Nome": "Itaeté",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJQ9h5d42VQQcRqIX5tXlXwAw"
+},
+{
+    "ID": "181",
+    "Sigla": "BR-BA",
+    "Nome": "Itagi",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJp3Yj5plXRwcRRjmeT_eHkSI"
+},
+{
+    "ID": "182",
+    "Sigla": "BR-BA",
+    "Nome": "Itagibá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJbQQRZ2WjOAcRISUxIXjy4y4"
+},
+{
+    "ID": "183",
+    "Sigla": "BR-BA",
+    "Nome": "Itagimirim",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJGVgn-35INgcRez_Z4IQMQs0"
+},
+{
+    "ID": "184",
+    "Sigla": "BR-BA",
+    "Nome": "Itaguaçu da Bahia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ6ZBf805bbwcRExFetGaeHHY"
+},
+{
+    "ID": "185",
+    "Sigla": "BR-BA",
+    "Nome": "Itaju do Colônia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJhdlKDVYXOAcRCORF3GYPeiM"
+},
+{
+    "ID": "186",
+    "Sigla": "BR-BA",
+    "Nome": "Itajuípe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJt5SoiIT-OAcR3mZpExicn8w"
+},
+{
+    "ID": "187",
+    "Sigla": "BR-BA",
+    "Nome": "Itamaraju",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJfRz4CM6kNQcRncCtOxHySGE"
+},
+{
+    "ID": "188",
+    "Sigla": "BR-BA",
+    "Nome": "Itamari",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJMbzcrShAPwcRVB_Ql61IlEI"
+},
+{
+    "ID": "189",
+    "Sigla": "BR-BA",
+    "Nome": "Itambé",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJW8MTA059SAcRKP4lQe7pW3w"
+},
+{
+    "ID": "190",
+    "Sigla": "BR-BA",
+    "Nome": "Itanagra",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJV-d0S7jgFgcRFTwkSPsnsv4"
+},
+{
+    "ID": "191",
+    "Sigla": "BR-BA",
+    "Nome": "Itanhém",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJW8MTA059SAcRKP4lQe7pW3w"
+},
+{
+    "ID": "192",
+    "Sigla": "BR-BA",
+    "Nome": "Itaparica",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJQZctYcziFQcRTolqC6UXT8A"
+},
+{
+    "ID": "193",
+    "Sigla": "BR-BA",
+    "Nome": "Itapé",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJvzM4VedROAcRzZuTAPZ5eOs"
+},
+{
+    "ID": "194",
+    "Sigla": "BR-BA",
+    "Nome": "Itapebi",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJI3yK1dBMNgcR91O-1KBZJMw"
+},
+{
+    "ID": "195",
+    "Sigla": "BR-BA",
+    "Nome": "Itapetinga",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJFzWVPI0LSAcRA4TKLrBDU4k"
+},
+{
+    "ID": "196",
+    "Sigla": "BR-BA",
+    "Nome": "Itapicuru",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJIS-Klw0KEQcRgXbwyJJKnjM"
+},
+{
+    "ID": "197",
+    "Sigla": "BR-BA",
+    "Nome": "Itapitanga",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_fCT0PnpOAcRj26pxUj412A"
+},
+{
+    "ID": "198",
+    "Sigla": "BR-BA",
+    "Nome": "Itaquara",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJdUHBMAp_PwcRuAC07Yu3Iu8"
+},
+{
+    "ID": "199",
+    "Sigla": "BR-BA",
+    "Nome": "Itarantim",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJqV79t3AmSAcR__MDe101p4A"
+},
+{
+    "ID": "200",
+    "Sigla": "BR-BA",
+    "Nome": "Itatim",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJE6U7VShDFQcRqfzYYm8W2N8"
+},
+{
+    "ID": "201",
+    "Sigla": "BR-BA",
+    "Nome": "Itiruçu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJPxHjYliFQAcRqrU-2w9glKQ"
+},
+{
+    "ID": "202",
+    "Sigla": "BR-BA",
+    "Nome": "Itiúba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ07pwl9GwEgcRsaBGMsZ4RVw"
+},
+{
+    "ID": "203",
+    "Sigla": "BR-BA",
+    "Nome": "Itororó",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJg4kYFcD7RwcRaoxMl77CkEQ"
+},
+{
+    "ID": "204",
+    "Sigla": "BR-BA",
+    "Nome": "Ituaçu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJVUmF1ekBRAcR30e0_EQxoiY"
+},
+{
+    "ID": "205",
+    "Sigla": "BR-BA",
+    "Nome": "Ituberá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJQRbmxP3vPgcRwl6_bpD8imA"
+},
+{
+    "ID": "206",
+    "Sigla": "BR-BA",
+    "Nome": "Iuiú",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ13t4m9ULWgcRycWMuVA6qgY"
+},
+{
+    "ID": "207",
+    "Sigla": "BR-BA",
+    "Nome": "Jaborandi",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJtdDWRU_-WAcRjRYjLWwLwbs"
+},
+{
+    "ID": "208",
+    "Sigla": "BR-BA",
+    "Nome": "Jacaraci",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJEYFFHtbkTwcRbQUlQk9-POk"
+},
+{
+    "ID": "209",
+    "Sigla": "BR-BA",
+    "Nome": "Jacobina",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJRZy_P7RWbAcRO_-JofXCjNI"
+},
+{
+    "ID": "210",
+    "Sigla": "BR-BA",
+    "Nome": "Jaguaquara",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJDcOrE5l9PwcRU5HxxCSNTYo"
+},
+{
+    "ID": "211",
+    "Sigla": "BR-BA",
+    "Nome": "Jaguarari",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJa-qv7VS6cgcRMhegq6iAErQ"
+},
+{
+    "ID": "212",
+    "Sigla": "BR-BA",
+    "Nome": "Jaguaripe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJyXW0OsIbPgcRx0dSnQjpZFA"
+},
+{
+    "ID": "213",
+    "Sigla": "BR-BA",
+    "Nome": "Jandaíra",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJcWuG46LvEAcRrNK4yHgiXeA"
+},
+{
+    "ID": "214",
+    "Sigla": "BR-BA",
+    "Nome": "Jequié",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJJWhnZT-vQAcRi4m9zrNwsZg"
+},
+{
+    "ID": "215",
+    "Sigla": "BR-BA",
+    "Nome": "Jeremoabo",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJC9jDsRmLDgcRMkUP_D_VIxg"
+},
+{
+    "ID": "216",
+    "Sigla": "BR-BA",
+    "Nome": "Jiquiriçá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJhTgp2qu-PwcRGveuRodsjPY"
+},
+{
+    "ID": "217",
+    "Sigla": "BR-BA",
+    "Nome": "Jitaúna",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJtye7lYVTPwcRPAlUSCEE39k"
+},
+{
+    "ID": "218",
+    "Sigla": "BR-BA",
+    "Nome": "João Dourado",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ__FrbMw0aQcRQBKzxF8Txcw"
+},
+{
+    "ID": "219",
+    "Sigla": "BR-BA",
+    "Nome": "Juazeiro",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJf1SByI1xcwcR3jRRjeQ5u7w"
+},
+{
+    "ID": "220",
+    "Sigla": "BR-BA",
+    "Nome": "Jucuruçu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJAyTz4z9uSgcRStc-9sIA-6c"
+},
+{
+    "ID": "221",
+    "Sigla": "BR-BA",
+    "Nome": "Jussara",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ573ykQ8hbwcRb8FuoLN4AuM"
+},
+{
+    "ID": "222",
+    "Sigla": "BR-BA",
+    "Nome": "Jussari",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJoxYtylYlOAcRqMRMxDc10zY"
+},
+{
+    "ID": "223",
+    "Sigla": "BR-BA",
+    "Nome": "Jussiape",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJSW6Ag-CSQwcRdznRI6JDLH4"
+},
+{
+    "ID": "224",
+    "Sigla": "BR-BA",
+    "Nome": "Lafaiete Coutinho",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJcZBjODyWQAcR0RtfXvDKYdU"
+},
+{
+    "ID": "225",
+    "Sigla": "BR-BA",
+    "Nome": "Lagoa Real",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_0Z70o3lRAcRQArihaYbXLo"
+},
+{
+    "ID": "226",
+    "Sigla": "BR-BA",
+    "Nome": "Laje",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJAZ_BWGzJPwcRCduE6c5YVFE"
+},
+{
+    "ID": "227",
+    "Sigla": "BR-BA",
+    "Nome": "Lajedão",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJRSHxN9fKSgcRiHqcPLzFSCQ"
+},
+{
+    "ID": "228",
+    "Sigla": "BR-BA",
+    "Nome": "Lajedinho",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJpYnbT3ZqagcRTEgSrbplGbg"
+},
+{
+    "ID": "229",
+    "Sigla": "BR-BA",
+    "Nome": "Lajedo do Tabocal",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJtWR_zw-MQAcRa0R51PBIDgo"
+},
+{
+    "ID": "230",
+    "Sigla": "BR-BA",
+    "Nome": "Lamarão",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJdyTZRmH2EwcRmspsA9Olho4"
+},
+{
+    "ID": "231",
+    "Sigla": "BR-BA",
+    "Nome": "Lapão",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ1WAgpwQsaQcRwc1YBAYNmrE"
+},
+{
+    "ID": "232",
+    "Sigla": "BR-BA",
+    "Nome": "Lauro de Freitas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJaTn3Uxo-FgcRwiRNr3sBm90"
+},
+{
+    "ID": "233",
+    "Sigla": "BR-BA",
+    "Nome": "Lençóis",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJWQf5BHsHQgcRonSAnMApkg0"
+},
+{
+    "ID": "234",
+    "Sigla": "BR-BA",
+    "Nome": "Licínio de Almeida",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJKYGFyIBVRQcRkZtv4CgT6M8"
+},
+{
+    "ID": "235",
+    "Sigla": "BR-BA",
+    "Nome": "Livramento de Nossa Senhora",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJK1Kd8aqAQwcRVGIore6_JC8"
+},
+{
+    "ID": "236",
+    "Sigla": "BR-BA",
+    "Nome": "Luís Eduardo Magalhães",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJUeKsYyUQSpMRYPb-mYOVzTo"
+},
+{
+    "ID": "237",
+    "Sigla": "BR-BA",
+    "Nome": "Macajuba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJN2WuxEYeawcRLXvPiDrh9gU"
+},
+{
+    "ID": "238",
+    "Sigla": "BR-BA",
+    "Nome": "Macarani",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJRw5nnqtFSAcRGLzkPw8fB5I"
+},
+{
+    "ID": "239",
+    "Sigla": "BR-BA",
+    "Nome": "Macaúbas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ9a3TchHQXAcRf9MEjQkt5Qg"
+},
+{
+    "ID": "240",
+    "Sigla": "BR-BA",
+    "Nome": "Macururé",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJEajr38eVCwcR4buaFc6rFWc"
+},
+{
+    "ID": "241",
+    "Sigla": "BR-BA",
+    "Nome": "Madre de Deus",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ8_D3sSR1FgcR-idPAyOZwWQ"
+},
+{
+    "ID": "242",
+    "Sigla": "BR-BA",
+    "Nome": "Maetinga",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ60pWaxHpRQcRqVi_gDxM1Vk"
+},
+{
+    "ID": "243",
+    "Sigla": "BR-BA",
+    "Nome": "Maiquinique",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJsxuMspU5SAcRFr9a8Xnd__w"
+},
+{
+    "ID": "244",
+    "Sigla": "BR-BA",
+    "Nome": "Mairi",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJT-6bDIBQawcRImryWEVh4jo"
+},
+{
+    "ID": "245",
+    "Sigla": "BR-BA",
+    "Nome": "Malhada",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ-R4sgZMBWgcRFRWs726iJtc"
+},
+{
+    "ID": "246",
+    "Sigla": "BR-BA",
+    "Nome": "Malhada de Pedras",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJG85fA9KnRQcR7mpdBMGP2U4"
+},
+{
+    "ID": "247",
+    "Sigla": "BR-BA",
+    "Nome": "Manoel Vitorino",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJIfFFmWVGRwcRASeDQeeASF4"
+},
+{
+    "ID": "248",
+    "Sigla": "BR-BA",
+    "Nome": "Mansidão",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJe9lPY1_pYwcR_WCBQAGIfio"
+},
+{
+    "ID": "249",
+    "Sigla": "BR-BA",
+    "Nome": "Maracás",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJDSILv_3wQAcRk1pj3B3Ibwo"
+},
+{
+    "ID": "250",
+    "Sigla": "BR-BA",
+    "Nome": "Maragogipe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJPbTiBfbrFQcRXlOjFSbjWpI"
+},
+{
+    "ID": "251",
+    "Sigla": "BR-BA",
+    "Nome": "Maraú",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ78PklcDJPgcROUMomUISOiM"
+},
+{
+    "ID": "252",
+    "Sigla": "BR-BA",
+    "Nome": "Marcionílio Souza",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJixWwzSI2QAcRCI6XYbXn6Sg"
+},
+{
+    "ID": "253",
+    "Sigla": "BR-BA",
+    "Nome": "Mascote",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJb1QCN8B3NwcRqEeRbCAH6Uk"
+},
+{
+    "ID": "254",
+    "Sigla": "BR-BA",
+    "Nome": "Mata de São João",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJCbKpJcRfFgcRbh0DCNX0eE0"
+},
+{
+    "ID": "255",
+    "Sigla": "BR-BA",
+    "Nome": "Matina",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJZ7vYU2IiWwcRMUzCLZGjyj4"
+},
+{
+    "ID": "256",
+    "Sigla": "BR-BA",
+    "Nome": "Medeiros Neto",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJDaxwpdO9SgcRDmSWWu9SV1A"
+},
+{
+    "ID": "257",
+    "Sigla": "BR-BA",
+    "Nome": "Miguel Calmon",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_1-kzxmHbAcRGc5MhyoCGEo"
+},
+{
+    "ID": "258",
+    "Sigla": "BR-BA",
+    "Nome": "Milagres",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJYzKEF_v8PwcRe31rfW8m9hg"
+},
+{
+    "ID": "259",
+    "Sigla": "BR-BA",
+    "Nome": "Mirangaba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJFZ7nxhn-bAcRnKcYxKAFBgc"
+},
+{
+    "ID": "260",
+    "Sigla": "BR-BA",
+    "Nome": "Mirante",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJsTxCL9_lRgcRAncQTQYMp2A"
+},
+{
+    "ID": "261",
+    "Sigla": "BR-BA",
+    "Nome": "Monte Santo",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJCZ2OMXt4DQcR8-l04fj5M3s"
+},
+{
+    "ID": "262",
+    "Sigla": "BR-BA",
+    "Nome": "Morpará",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJUYcYEHb8ZgcRJQnhsWn96fc"
+},
+{
+    "ID": "263",
+    "Sigla": "BR-BA",
+    "Nome": "Morro do Chapéu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJxyZIMeP6awcR9DVcu70ruto"
+},
+{
+    "ID": "264",
+    "Sigla": "BR-BA",
+    "Nome": "Mortugaba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJu2i3NZbCTwcRAyjJDPawu7s"
+},
+{
+    "ID": "265",
+    "Sigla": "BR-BA",
+    "Nome": "Mucugê",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJoeMbTPYlQgcRUkfr452-wIk"
+},
+{
+    "ID": "266",
+    "Sigla": "BR-BA",
+    "Nome": "Mucuri",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJASTG_yrCygARPe1z292U2kY"
+},
+{
+    "ID": "267",
+    "Sigla": "BR-BA",
+    "Nome": "Mulungu do Morro",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJI12MUySgaQcRWdZijvYhlv8"
+},
+{
+    "ID": "268",
+    "Sigla": "BR-BA",
+    "Nome": "Mundo Novo",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJtR5AoaASawcRGYIVJOIhr4I"
+},
+{
+    "ID": "269",
+    "Sigla": "BR-BA",
+    "Nome": "Muniz Ferreira",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJy7Xa0AEnPgcRk1ZZsS61G2k"
+},
+{
+    "ID": "270",
+    "Sigla": "BR-BA",
+    "Nome": "Muquém de São Francisco",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJEb0vehdcZwcR6QuxMReldsg"
+},
+{
+    "ID": "271",
+    "Sigla": "BR-BA",
+    "Nome": "Muritiba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJEVtFjbS9FQcROkeLrstRatg"
+},
+{
+    "ID": "272",
+    "Sigla": "BR-BA",
+    "Nome": "Mutuípe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJo-t5_zi4PwcR9ZyWt25AJ4A"
+},
+{
+    "ID": "273",
+    "Sigla": "BR-BA",
+    "Nome": "Nazaré",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJdTS6yksgPgcRQvokUd4URKQ"
+},
+{
+    "ID": "274",
+    "Sigla": "BR-BA",
+    "Nome": "Nilo Peçanha",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJfyXjT0z2PgcRCdrV9yYBxO4"
+},
+{
+    "ID": "275",
+    "Sigla": "BR-BA",
+    "Nome": "Nordestina",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJNSB1BcSMEgcRmKsjpwmsUMs"
+},
+{
+    "ID": "276",
+    "Sigla": "BR-BA",
+    "Nome": "Nova Canaã",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJuXSZhtWPRwcRyuN3WIlX0Kk"
+},
+{
+    "ID": "277",
+    "Sigla": "BR-BA",
+    "Nome": "Nova Fátima",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJv33aYzRnEwcRVhx1oX_BYYg"
+},
+{
+    "ID": "278",
+    "Sigla": "BR-BA",
+    "Nome": "Nova Ibiá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJeWvG_rA_PwcR9pqQhaRM-PI"
+},
+{
+    "ID": "279",
+    "Sigla": "BR-BA",
+    "Nome": "Nova Itarana",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_3mxL7sOQAcRepSikuOJ_sc"
+},
+{
+    "ID": "280",
+    "Sigla": "BR-BA",
+    "Nome": "Nova Redenção",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ2SJVhvTuQQcRKIZUtoYIIGY"
+},
+{
+    "ID": "281",
+    "Sigla": "BR-BA",
+    "Nome": "Nova Soure",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJNXEH9yqDEQcR4K3Pi6cVtjc"
+},
+{
+    "ID": "282",
+    "Sigla": "BR-BA",
+    "Nome": "Nova Viçosa",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ6W-JZFjUygAR13OTNnyNj7A"
+},
+{
+    "ID": "283",
+    "Sigla": "BR-BA",
+    "Nome": "Novo Horizonte",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJy81WjCfpQgcRSj-Y64RARck"
+},
+{
+    "ID": "284",
+    "Sigla": "BR-BA",
+    "Nome": "Novo Triunfo",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJZQVm2apuDgcR-1o2K0E-S6I"
+},
+{
+    "ID": "285",
+    "Sigla": "BR-BA",
+    "Nome": "Olindina",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJUc0Uo-p0EQcRVTaQMHaOk58"
+},
+{
+    "ID": "286",
+    "Sigla": "BR-BA",
+    "Nome": "Oliveira dos Brejinhos",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJwybKQvtgXQcRCzBde-8uHWM"
+},
+{
+    "ID": "287",
+    "Sigla": "BR-BA",
+    "Nome": "Ouriçangas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ4ac6ebinFgcRRVg3lGnb65o"
+},
+{
+    "ID": "288",
+    "Sigla": "BR-BA",
+    "Nome": "Ourolândia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJyaQpG-UwbAcR7XK5tshxGF8"
+},
+{
+    "ID": "289",
+    "Sigla": "BR-BA",
+    "Nome": "Palmas de Monte Alto",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJpd7-cpGKWgcRdNR_jqAAHdc"
+},
+{
+    "ID": "290",
+    "Sigla": "BR-BA",
+    "Nome": "Palmeiras",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJh_Ww-BXgaQcRNNKj89O515w"
+},
+{
+    "ID": "291",
+    "Sigla": "BR-BA",
+    "Nome": "Paramirim",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJqxCa3WNdQwcRzpMvKdaMJcg"
+},
+{
+    "ID": "292",
+    "Sigla": "BR-BA",
+    "Nome": "Paratinga",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJiSA-psWpXQcRdJNodDIWTcI"
+},
+{
+    "ID": "293",
+    "Sigla": "BR-BA",
+    "Nome": "Paripiranga",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJC5boyzHRDwcREIK6uWoPFSQ"
+},
+{
+    "ID": "294",
+    "Sigla": "BR-BA",
+    "Nome": "Pau Brasil",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJOXd_mFaNNwcRbHI_PDcRnmw"
+},
+{
+    "ID": "295",
+    "Sigla": "BR-BA",
+    "Nome": "Paulo Afonso",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJOXd_mFaNNwcRbHI_PDcRnmw"
+},
+{
+    "ID": "296",
+    "Sigla": "BR-BA",
+    "Nome": "Pé de Serra",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJj3IVuSyYFAcRh7f6P3Rpofk"
+},
+{
+    "ID": "297",
+    "Sigla": "BR-BA",
+    "Nome": "Pedrão",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJwZSGlf6fFgcRRhaHVfeSD6E"
+},
+{
+    "ID": "298",
+    "Sigla": "BR-BA",
+    "Nome": "Pedro Alexandre",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJx6MiJ58cDwcRDcA4ikBIMzA"
+},
+{
+    "ID": "299",
+    "Sigla": "BR-BA",
+    "Nome": "Piatã",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJJ8kaIAauQwcRkWSYU_pCICM"
+},
+{
+    "ID": "300",
+    "Sigla": "BR-BA",
+    "Nome": "Pilão Arcado",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJHxfizzUBcAcRwZZICHpS58A"
+},
+{
+    "ID": "301",
+    "Sigla": "BR-BA",
+    "Nome": "Pindaí",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJweLXliGwWgcRX4xrGyD7C3A"
+},
+{
+    "ID": "302",
+    "Sigla": "BR-BA",
+    "Nome": "Pindobaçu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_1qFyDcUbQcRiXixFio1ll4"
+},
+{
+    "ID": "303",
+    "Sigla": "BR-BA",
+    "Nome": "Pintadas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJe3UVHDmyFAcRL7MbtmqrBOA"
+},
+{
+    "ID": "304",
+    "Sigla": "BR-BA",
+    "Nome": "Piraí do Norte",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJyWRS7KEePwcR6EJ9Fkb06YA"
+},
+{
+    "ID": "305",
+    "Sigla": "BR-BA",
+    "Nome": "Piripá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJieN4nIBjTwcRTV1aUXGYZvU"
+},
+{
+    "ID": "306",
+    "Sigla": "BR-BA",
+    "Nome": "Piritiba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJlQS2a9dwawcReKeAhD-g9Ig"
+},
+{
+    "ID": "307",
+    "Sigla": "BR-BA",
+    "Nome": "Planaltino",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJJZMR_yFcQAcR8w_siXT0T3Q"
+},
+{
+    "ID": "308",
+    "Sigla": "BR-BA",
+    "Nome": "Planalto",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJNz9I2vOvRwcRmR4caW7M5TY"
+},
+{
+    "ID": "309",
+    "Sigla": "BR-BA",
+    "Nome": "Poções",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ8_FM9UMKRwcReMB-dcuaVKs"
+},
+{
+    "ID": "310",
+    "Sigla": "BR-BA",
+    "Nome": "Pojuca",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJVbdbfmeLFgcRS6DgPyY0mU0"
+},
+{
+    "ID": "311",
+    "Sigla": "BR-BA",
+    "Nome": "Ponto Novo",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJCXdGOBowbQcRgiCVwLlOdgQ"
+},
+{
+    "ID": "312",
+    "Sigla": "BR-BA",
+    "Nome": "Porto Seguro",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ_4a8SqmWNgcRD-iVnFL5fWc"
+},
+{
+    "ID": "313",
+    "Sigla": "BR-BA",
+    "Nome": "Potiraguá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJA2zmyqXdNwcR73e01WxZXXs"
+},
+{
+    "ID": "314",
+    "Sigla": "BR-BA",
+    "Nome": "Prado",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJfyUBQVn5NAcREVBqwCYFp7M"
+},
+{
+    "ID": "315",
+    "Sigla": "BR-BA",
+    "Nome": "Presidente Dutra",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJWzcH8rPUaAcRW4f7gl-SKJE"
+},
+{
+    "ID": "316",
+    "Sigla": "BR-BA",
+    "Nome": "Presidente Jânio Quadros",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJYRxiTCiSRQcRlUvGjPF9Pms"
+},
+{
+    "ID": "317",
+    "Sigla": "BR-BA",
+    "Nome": "Presidente Tancredo Neves",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJuTBTl0ipPwcRm9Msi4VMNFo"
+},
+{
+    "ID": "318",
+    "Sigla": "BR-BA",
+    "Nome": "Queimadas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJFVbSo73nEgcRG3Xi4JoXPf0"
+},
+{
+    "ID": "319",
+    "Sigla": "BR-BA",
+    "Nome": "Quijingue",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJFx4nHfdkEgcR5QSHJk3eVjc"
+},
+{
+    "ID": "320",
+    "Sigla": "BR-BA",
+    "Nome": "Quixabeira",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJXTrBD-qwbAcRtkDFakzWMWk"
+},
+{
+    "ID": "321",
+    "Sigla": "BR-BA",
+    "Nome": "Rafael Jambeiro",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJR4LPmREbFQcR6z8g0yK6nI0"
+},
+{
+    "ID": "322",
+    "Sigla": "BR-BA",
+    "Nome": "Remanso",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJC0ITXNpZcAcR1ZMo20l9iAk"
+},
+{
+    "ID": "323",
+    "Sigla": "BR-BA",
+    "Nome": "Retirolândia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJGe2g2pJzEwcRka_PkVM1-Ug"
+},
+{
+    "ID": "324",
+    "Sigla": "BR-BA",
+    "Nome": "Riachão das Neves",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJXUj33pcEYAcRLfHx6cBFwl4"
+},
+{
+    "ID": "325",
+    "Sigla": "BR-BA",
+    "Nome": "Riachão do Jacuípe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJZY_PxMmGFAcR9wfI8Qgx2XQ"
+},
+{
+    "ID": "326",
+    "Sigla": "BR-BA",
+    "Nome": "Riacho de Santana",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJF6bjxt5oWwcR4L2XJAJLUA0"
+},
+{
+    "ID": "327",
+    "Sigla": "BR-BA",
+    "Nome": "Ribeira do Amparo",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJS0TlB8GTEQcRkmfVPKjkdG0"
+},
+{
+    "ID": "328",
+    "Sigla": "BR-BA",
+    "Nome": "Ribeira do Pombal",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJKRJelWHwEQcR2vr6WJOOsMY"
+},
+{
+    "ID": "329",
+    "Sigla": "BR-BA",
+    "Nome": "Ribeirão do Largo",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJmamMumTxSAcR-7kQ0y-13Xc"
+},
+{
+    "ID": "330",
+    "Sigla": "BR-BA",
+    "Nome": "Rio de Contas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJuQT40YSGQwcRd7zb7V15SUg"
+},
+{
+    "ID": "331",
+    "Sigla": "BR-BA",
+    "Nome": "Rio do Antônio",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJXYVr6QAORQcRgIEiXtikeJs"
+},
+{
+    "ID": "332",
+    "Sigla": "BR-BA",
+    "Nome": "Rio do Pires",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJRWsfNck8QwcRTeR9LMoryWI"
+},
+{
+    "ID": "333",
+    "Sigla": "BR-BA",
+    "Nome": "Rio Real",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJKW2KSuL8EAcRBv30RxEHtq0"
+},
+{
+    "ID": "334",
+    "Sigla": "BR-BA",
+    "Nome": "Rodelas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ2XgdomgsCgcRyXllsSFa4xQ"
+},
+{
+    "ID": "335",
+    "Sigla": "BR-BA",
+    "Nome": "Ruy Barbosa",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJyWoqo3TwagcRIGbHo8Hhw30"
+},
+{
+    "ID": "336",
+    "Sigla": "BR-BA",
+    "Nome": "Salinas da Margarida",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJGWiUH7jkFQcRKna2ZdQ5Kys"
+},
+{
+    "ID": "337",
+    "Sigla": "BR-BA",
+    "Nome": "Santa Bárbara",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJMxsgxKISFAcRHZ7DOek7kp0"
+},
+{
+    "ID": "338",
+    "Sigla": "BR-BA",
+    "Nome": "Santa Brígida",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJQWEvHuLaDgcRR49QMmFsBJk"
+},
+{
+    "ID": "339",
+    "Sigla": "BR-BA",
+    "Nome": "Santa Cruz Cabrália",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ8dR-enjpNgcRhE4xfDkibrs"
+},
+{
+    "ID": "340",
+    "Sigla": "BR-BA",
+    "Nome": "Santa Cruz da Vitória",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJUW1Pg1RtOAcRNC86rDH-qfs"
+},
+{
+    "ID": "341",
+    "Sigla": "BR-BA",
+    "Nome": "Santa Inês",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJsxqrqx-QPwcR-pKkuI7N1H0"
+},
+{
+    "ID": "342",
+    "Sigla": "BR-BA",
+    "Nome": "Santa Luzia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJQR7HHceBNwcRtGnC3viwkaY"
+},
+{
+    "ID": "343",
+    "Sigla": "BR-BA",
+    "Nome": "Santa Maria da Vitória",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJPYj8RQ08WQcRFbojpYKqoys"
+},
+{
+    "ID": "344",
+    "Sigla": "BR-BA",
+    "Nome": "Santa Rita de Cássia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJefuSL_GaYQcRItlNluvmoFo"
+},
+{
+    "ID": "345",
+    "Sigla": "BR-BA",
+    "Nome": "Santa Teresinha",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJufzB-AxlFQcRKKCuCA_sQsQ"
+},
+{
+    "ID": "346",
+    "Sigla": "BR-BA",
+    "Nome": "Santaluz",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJj0jD01sGEwcRLky7JhHY3Aw"
+},
+{
+    "ID": "347",
+    "Sigla": "BR-BA",
+    "Nome": "Santana",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJD5CMox-5XgcRSHMpn3uvKqc"
+},
+{
+    "ID": "348",
+    "Sigla": "BR-BA",
+    "Nome": "Santanópolis",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJy2weGSQRFAcRK7LRk_NzjQU"
+},
+{
+    "ID": "349",
+    "Sigla": "BR-BA",
+    "Nome": "Santo Amaro",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJQR8Ezx3XFQcRkC3G8Jyfml8"
+},
+{
+    "ID": "350",
+    "Sigla": "BR-BA",
+    "Nome": "Santo Antônio de Jesus",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJI_OjpkUqPgcRwjWqc-lqbJQ"
+},
+{
+    "ID": "351",
+    "Sigla": "BR-BA",
+    "Nome": "Santo Estêvão",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJeb2rsEWpFQcRdP5EIA4UA7I"
+},
+{
+    "ID": "352",
+    "Sigla": "BR-BA",
+    "Nome": "São Desidério",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJE8HkEcaAXwcRomy8JKkIAII"
+},
+{
+    "ID": "353",
+    "Sigla": "BR-BA",
+    "Nome": "São Domingos",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJvUWsSQhsEwcR9t-H0vXyTmg"
+},
+{
+    "ID": "354",
+    "Sigla": "BR-BA",
+    "Nome": "São Felipe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJDeuayRWOFQcRhP6pPcCLUew"
+},
+{
+    "ID": "355",
+    "Sigla": "BR-BA",
+    "Nome": "São Félix",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJCVc3EETHFQcRO2TIajh3rzo"
+},
+{
+    "ID": "356",
+    "Sigla": "BR-BA",
+    "Nome": "São Félix do Coribe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJCek_1Mw9WQcRSNqllAgudrE"
+},
+{
+    "ID": "357",
+    "Sigla": "BR-BA",
+    "Nome": "São Francisco do Conde",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJLz4fiUPYFQcRtjUKrtamiU8"
+},
+{
+    "ID": "358",
+    "Sigla": "BR-BA",
+    "Nome": "São Gabriel",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ9fr2tWDWbgcRGXbO-jJOkBI"
+},
+{
+    "ID": "359",
+    "Sigla": "BR-BA",
+    "Nome": "São Gonçalo dos Campos",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJB2nL1V_KFQcRna3ZuNKrKv0"
+},
+{
+    "ID": "360",
+    "Sigla": "BR-BA",
+    "Nome": "São José da Vitória",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJh4Ldsms1OAcR58gYWtTtABM"
+},
+{
+    "ID": "361",
+    "Sigla": "BR-BA",
+    "Nome": "São José do Jacuípe",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ4yBTrqmtbAcRg1lzC_jBVEA"
+},
+{
+    "ID": "362",
+    "Sigla": "BR-BA",
+    "Nome": "São Miguel das Matas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJAwfJ_jjQPwcRojMj7cByJs8"
+},
+{
+    "ID": "363",
+    "Sigla": "BR-BA",
+    "Nome": "São Sebastião do Passé",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJJ2AXDtZ8FgcRpncl9QR_rBE"
+},
+{
+    "ID": "364",
+    "Sigla": "BR-BA",
+    "Nome": "Sapeaçu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJAZJmqpGZFQcRRASHKjeR7oY"
+},
+{
+    "ID": "365",
+    "Sigla": "BR-BA",
+    "Nome": "Sátiro Dias",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJR5UvwfVeEQcR7tISFpv1TIQ"
+},
+{
+    "ID": "366",
+    "Sigla": "BR-BA",
+    "Nome": "Saubara",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJiYsKCWbnFQcRv5wUhl99tTY"
+},
+{
+    "ID": "367",
+    "Sigla": "BR-BA",
+    "Nome": "Saúde",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJV81ECrUdbQcRYYSW6gTHsBU"
+},
+{
+    "ID": "368",
+    "Sigla": "BR-BA",
+    "Nome": "Seabra",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJnzHAXE7XaQcRUYXTdan1AFE"
+},
+{
+    "ID": "369",
+    "Sigla": "BR-BA",
+    "Nome": "Sebastião Laranjeiras",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJLZDEIPudWgcRIGwFkG0hxB0"
+},
+{
+    "ID": "370",
+    "Sigla": "BR-BA",
+    "Nome": "Senhor do Bonfim",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ93MU7SBXbQcRij3X0sKD2j4"
+},
+{
+    "ID": "371",
+    "Sigla": "BR-BA",
+    "Nome": "Sento Sé",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ7Sa9qXitcQcRaQadElyFazc"
+},
+{
+    "ID": "372",
+    "Sigla": "BR-BA",
+    "Nome": "Serra do Ramalho",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ0357F9bpWwcRgF1QAfGoZt8"
+},
+{
+    "ID": "373",
+    "Sigla": "BR-BA",
+    "Nome": "Serra Dourada",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ48nKNPKPXgcRYfrF6N7WYrs"
+},
+{
+    "ID": "374",
+    "Sigla": "BR-BA",
+    "Nome": "Serra Preta",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ3Ux41dr3FAcRkMLCjn4dalI"
+},
+{
+    "ID": "375",
+    "Sigla": "BR-BA",
+    "Nome": "Serrinha",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJs9gyCBWNEwcREAz5rTcYDOo"
+},
+{
+    "ID": "376",
+    "Sigla": "BR-BA",
+    "Nome": "Serrolândia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJEWy9xUW9bAcR6SMwnNPnKlU"
+},
+{
+    "ID": "377",
+    "Sigla": "BR-BA",
+    "Nome": "Simões Filho",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJkeW3BVFrFgcRzmqejaTkSs4"
+},
+{
+    "ID": "378",
+    "Sigla": "BR-BA",
+    "Nome": "Sítio do Mato",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJk6_dxV5rXAcRuWQ4HROmDD4"
+},
+{
+    "ID": "379",
+    "Sigla": "BR-BA",
+    "Nome": "Sítio do Quinto",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJR4J7_69GDgcRFw_U2qRlJdQ"
+},
+{
+    "ID": "380",
+    "Sigla": "BR-BA",
+    "Nome": "Sobradinho",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJqQJ7g5eXcwcRck82yps28PM"
+},
+{
+    "ID": "381",
+    "Sigla": "BR-BA",
+    "Nome": "Souto Soares",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJR6X3K9m8aQcRB9osbiIkNx8"
+},
+{
+    "ID": "382",
+    "Sigla": "BR-BA",
+    "Nome": "Tabocas do Brejo Velho",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJW8yLWlKJXgcRZJd4XXiG6xI"
+},
+{
+    "ID": "383",
+    "Sigla": "BR-BA",
+    "Nome": "Tanhaçu",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJTWlur_ugRgcRXDq3-1xvcbg"
+},
+{
+    "ID": "384",
+    "Sigla": "BR-BA",
+    "Nome": "Tanque Novo",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJP_TlFDWqRAcRI4BikTMsVJk"
+},
+{
+    "ID": "385",
+    "Sigla": "BR-BA",
+    "Nome": "Tanquinho",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJER3oN-VuFAcRErhxuE3Is5I"
+},
+{
+    "ID": "386",
+    "Sigla": "BR-BA",
+    "Nome": "Taperoá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJofXlCxBZPgcR8Gn_KEVcOrY"
+},
+{
+    "ID": "387",
+    "Sigla": "BR-BA",
+    "Nome": "Tapiramutá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJc6gZ7U2jawcR-a7RaErgeAA"
+},
+{
+    "ID": "388",
+    "Sigla": "BR-BA",
+    "Nome": "Teixeira de Freitas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ7xf0wKlGNQcRWxwfNx-Mjpk"
+},
+{
+    "ID": "389",
+    "Sigla": "BR-BA",
+    "Nome": "Teodoro Sampaio",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJjylQtkudFgcRpofwD8LLzCg"
+},
+{
+    "ID": "390",
+    "Sigla": "BR-BA",
+    "Nome": "Teofilândia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ8wKD5_m_EwcR_SNhvdMMhU4"
+},
+{
+    "ID": "391",
+    "Sigla": "BR-BA",
+    "Nome": "Teolândia",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJzXDCUfkFPwcRTeI_wVfW4IE"
+},
+{
+    "ID": "392",
+    "Sigla": "BR-BA",
+    "Nome": "Terra Nova",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJYT10IJGBFgcRvhPXV22gELg"
+},
+{
+    "ID": "393",
+    "Sigla": "BR-BA",
+    "Nome": "Tremedal",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJxd8tRg5XTwcRHazmVoOH6rY"
+},
+{
+    "ID": "394",
+    "Sigla": "BR-BA",
+    "Nome": "Tucano",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJIbwaQuMiEgcRDIWEEeGr8D0"
+},
+{
+    "ID": "395",
+    "Sigla": "BR-BA",
+    "Nome": "Uauá",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJv02h-NX6DAcRXLpMn1pvtOk"
+},
+{
+    "ID": "396",
+    "Sigla": "BR-BA",
+    "Nome": "Ubaíra",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJlVLwYACWPwcRU7byJFYvM3Q"
+},
+{
+    "ID": "397",
+    "Sigla": "BR-BA",
+    "Nome": "Ubaitaba",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJY6KQ8ADYOAcRpe7-21tTRKQ"
+},
+{
+    "ID": "398",
+    "Sigla": "BR-BA",
+    "Nome": "Ubatã",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJYdijtF3OOAcRpcGetAvzzWs"
+},
+{
+    "ID": "399",
+    "Sigla": "BR-BA",
+    "Nome": "Uibaí",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJG3WbxJjOaAcRl__ZhLyExB4"
+},
+{
+    "ID": "400",
+    "Sigla": "BR-BA",
+    "Nome": "Umburanas",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJZYBeAR95bgcR9hEM_N_igY8"
+},
+{
+    "ID": "401",
+    "Sigla": "BR-BA",
+    "Nome": "Una",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ55Po11DbOQcR8kC-rFXMWtE"
+},
+{
+    "ID": "402",
+    "Sigla": "BR-BA",
+    "Nome": "Urandi",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJoecGavMEUAcRTGnWHt3HO4Q"
+},
+{
+    "ID": "403",
+    "Sigla": "BR-BA",
+    "Nome": "Uruçuca",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJUwU0OCIdOQcR8E-SS_bQDLE"
+},
+{
+    "ID": "404",
+    "Sigla": "BR-BA",
+    "Nome": "Utinga",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJgVBEOTIyagcRuTY70DbD-YI"
+},
+{
+    "ID": "405",
+    "Sigla": "BR-BA",
+    "Nome": "Valença",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJMW2SewhEPgcRGhkdqbkpoc0"
+},
+{
+    "ID": "406",
+    "Sigla": "BR-BA",
+    "Nome": "Valente",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJayf3YDYNEwcR8pF-gNDA5AU"
+},
+{
+    "ID": "407",
+    "Sigla": "BR-BA",
+    "Nome": "Várzea da Roça",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJKYBdGx2obAcRO1-FjkOljOc"
+},
+{
+    "ID": "408",
+    "Sigla": "BR-BA",
+    "Nome": "Várzea do Poço",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJP8ren2OfbAcRWN2lRiPRrmA"
+},
+{
+    "ID": "409",
+    "Sigla": "BR-BA",
+    "Nome": "Várzea Nova",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJtQgogKRsbAcRYZPtGcYpzm4"
+},
+{
+    "ID": "410",
+    "Sigla": "BR-BA",
+    "Nome": "Varzedo",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ0R_ZLiXUPwcRqdnmcGR45VQ"
+},
+{
+    "ID": "411",
+    "Sigla": "BR-BA",
+    "Nome": "Vera Cruz",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ22LQhxwHFgcRnev3nlb6erI"
+},
+{
+    "ID": "412",
+    "Sigla": "BR-BA",
+    "Nome": "Vereda",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJxwjkwc-ESgcRJcXGQB68zjY"
+},
+{
+    "ID": "413",
+    "Sigla": "BR-BA",
+    "Nome": "Vitória da Conquista",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJBeQlMAc7RgcR4yrZK0VFvng"
+},
+{
+    "ID": "414",
+    "Sigla": "BR-BA",
+    "Nome": "Wagner",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJHQSwHkMiagcRaCymp6c2DW8"
+},
+{
+    "ID": "415",
+    "Sigla": "BR-BA",
+    "Nome": "Wanderley",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ8TmnrqkDXgcRGl42dOl9WuI"
+},
+{
+    "ID": "416",
+    "Sigla": "BR-BA",
+    "Nome": "Wenceslau Guimarães",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJ45SaW4UaPwcRLIfb4aIuKXc"
+},
+{
+    "ID": "417",
+    "Sigla": "BR-BA",
+    "Nome": "Xique-Xique",
+    "Casos": "0",
+    "Mortes": "0",
+    "placeId": "ChIJiaKjIRWSZQcRAdo97mojvNA"
 }
 
 ]
