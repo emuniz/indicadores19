@@ -1,0 +1,187 @@
+[{
+	"ID": "1",
+	"Sigla": "BR-AC",
+	"Nome": "Acre",
+	"Casos": "3",
+	"Mortes": "0"
+},
+     {
+	"ID": "2",
+	"Sigla": "BR-AL",
+	"Nome": "Alagoas",
+	"Casos": "1",
+	"Mortes": "0"
+},
+     {
+	"ID": "3",
+	"Sigla": "BR-AM",
+	"Nome": "Amazonas",
+	"Casos": "1",
+	"Mortes": "0"
+},
+     {
+	"ID": "4",
+	"Sigla": "BR-AP",
+	"Nome": "Amapá",
+	"Casos": "0",
+	"Mortes": "0"
+},
+     {
+	"ID": "5",
+	"Sigla": "BR-BA",
+	"Nome": "Bahia",
+	"Casos": "17",
+	"Mortes": "0"
+},
+     {
+	"ID": "6",
+	"Sigla": "BR-CE",
+	"Nome": "Ceará",
+	"Casos": "11",
+	"Mortes": "0"
+},
+     {
+	"ID": "7",
+	"Sigla": "BR-DF",
+	"Nome": "Distrito Federal",
+	"Casos": "19",
+	"Mortes": "0"
+},
+     {
+	"ID": "8",
+	"Sigla": "BR-ES",
+	"Nome": "Espírito Santo",
+	"Casos": "8",
+	"Mortes": "0"
+},
+     {
+	"ID": "9",
+	"Sigla": "BR-GO",
+	"Nome": "Goiás",
+	"Casos": "10",
+	"Mortes": "0"
+},
+     {
+	"ID": "10",
+	"Sigla": "BR-MA",
+	"Nome": "Maranhão",
+	"Casos": "0",
+	"Mortes": "0"
+},
+     {
+	"ID": "11",
+	"Sigla": "BR-MG",
+	"Nome": "Minas Gerais",
+	"Casos": "14"
+},
+     {
+	"ID": "12",
+	"Sigla": "BR-MS",
+	"Nome": "Mato Grosso do Sul",
+	"Casos": "6",
+	"Mortes": "0"
+},
+     {
+	"ID": "13",
+	"Sigla": "BR-MT",
+	"Nome": "Mato Grosso",
+	"Casos": "0",
+	"Mortes": "0"
+},
+     {
+	"ID": "14",
+	"Sigla": "BR-PA",
+	"Nome": "Pará",
+	"Casos": "0",
+	"Mortes": "0"
+},
+     {
+	"ID": "15",
+	"Sigla": "BR-PB",
+	"Nome": "Paraíba",
+	"Casos": "0",
+	"Mortes": "0"
+},
+     {
+	"ID": "16",
+	"Sigla": "BR-PE",
+	"Nome": "Pernambuco",
+	"Casos": "19",
+	"Mortes": "0"
+},
+     {
+	"ID": "17",
+	"Sigla": "BR-PI",
+	"Nome": "Piauí",
+	"Casos": "0",
+	"Mortes": "0"
+},
+     {
+	"ID": "18",
+	"Sigla": "BR-PR",
+	"Nome": "Paraná",
+	"Mortes": "0"
+},
+     {
+	"ID": "19",
+	"Sigla": "BR-RJ",
+	"Nome": "Rio de Janeiro",
+	"Casos": "33",
+	"Mortes": "0"
+},
+     {
+	"ID": "20",
+	"Sigla": "BR-RN",
+	"Nome": "Rio Grande do Norte",
+	"Casos": "1",
+	"Mortes": "0"
+},
+     {
+	"ID": "21",
+	"Sigla": "BR-RO",
+	"Nome": "Rondônia",
+	"Casos": "0",
+	"Mortes": "0"
+},
+     {
+	"ID": "22",
+	"Sigla": "BR-RR",
+	"Nome": "Roraima",
+	"Casos": "0",
+	"Mortes": "0"
+},
+     {
+	"ID": "23",
+	"Sigla": "BR-RS",
+	"Nome": "Rio Grande do Sul",
+	"Casos": "19",
+	"Mortes": "0"
+},
+     {
+	"ID": "24",
+	"Sigla": "BR-SC",
+	"Nome": "Santa Catarina",
+	"Casos": "7",
+	"Mortes": "0"
+},
+     {
+	"ID": "25",
+	"Sigla": "BR-SE",
+	"Nome": "Sergipe",
+	"Casos": "5",
+	"Mortes": "0"
+},
+     {
+	"ID": "26",
+	"Sigla": "BR-SP",
+	"Nome": "São Paulo",
+	"Casos": "164",
+	"Mortes": "0"
+},
+     {
+	"ID": "27",
+	"Sigla": "BR-TO",
+	"Nome": "Tocantins",
+	"Casos": "0",
+	"Mortes": "0"
+}]
