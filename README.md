@@ -4,4 +4,4 @@
 
  Quem quiser contribuir com atualização dos dados seŕa bem vindo.
 
- Créditos para @felipefdl.
+ Créditos para Anderson Santana.
