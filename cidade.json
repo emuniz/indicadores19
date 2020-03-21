@@ -562,7 +562,7 @@
     "ID": "71",
     "Sigla": "BR-BA",
     "Nome": "Camaçari",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJoRjgVNtpFgcRrShOetcICdo"
 },
@@ -1850,7 +1850,7 @@
     "ID": "232",
     "Sigla": "BR-BA",
     "Nome": "Lauro de Freitas",
-    "Casos": "2",
+    "Casos": "3",
     "Mortes": "0",
     "placeId": "ChIJaTn3Uxo-FgcRwiRNr3sBm90"
 },
