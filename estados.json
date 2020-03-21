@@ -1,162 +1,187 @@
 [{
 	"ID": "1",
-	"Sigla": "AC",
+	"Sigla": "BR-AC",
 	"Nome": "Acre",
-	"Casos": "3"
+	"Casos": "3",
+	"Mortes": "0"
 },
      {
 	"ID": "2",
-	"Sigla": "AL",
+	"Sigla": "BR-AL",
 	"Nome": "Alagoas",
-	"Casos": "1"
+	"Casos": "1",
+	"Mortes": "0"
 },
      {
 	"ID": "3",
-	"Sigla": "AM",
+	"Sigla": "BR-AM",
 	"Nome": "Amazonas",
-	"Casos": "2"
+	"Casos": "1",
+	"Mortes": "0"
 },
      {
 	"ID": "4",
-	"Sigla": "AP",
+	"Sigla": "BR-AP",
 	"Nome": "Amapá",
-	"Casos": "0"
+	"Casos": "0",
+	"Mortes": "0"
 },
      {
 	"ID": "5",
-	"Sigla": "BA",
+	"Sigla": "BR-BA",
 	"Nome": "Bahia",
-	"Casos": "35"
+	"Casos": "35",
+	"Mortes": "0"
 },
      {
 	"ID": "6",
-	"Sigla": "CE",
+	"Sigla": "BR-CE",
 	"Nome": "Ceará",
-	"Casos": "20"
+	"Casos": "11",
+	"Mortes": "0"
 },
      {
 	"ID": "7",
-	"Sigla": "DF",
+	"Sigla": "BR-DF",
 	"Nome": "Distrito Federal",
-	"Casos": "36"
+	"Casos": "19",
+	"Mortes": "0"
 },
      {
 	"ID": "8",
-	"Sigla": "ES",
+	"Sigla": "BR-ES",
 	"Nome": "Espírito Santo",
-	"Casos": "11"
+	"Casos": "8",
+	"Mortes": "0"
 },
      {
 	"ID": "9",
-	"Sigla": "GO",
+	"Sigla": "BR-GO",
 	"Nome": "Goiás",
-	"Casos": "12"
+	"Casos": "10",
+	"Mortes": "0"
 },
      {
 	"ID": "10",
-	"Sigla": "MA",
+	"Sigla": "BR-MA",
 	"Nome": "Maranhão",
-	"Casos": "0"
+	"Casos": "0",
+	"Mortes": "0"
 },
      {
 	"ID": "11",
-	"Sigla": "MG",
+	"Sigla": "BR-MG",
 	"Nome": "Minas Gerais",
-	"Casos": "19"
+	"Casos": "14"
 },
      {
 	"ID": "12",
-	"Sigla": "MS",
+	"Sigla": "BR-MS",
 	"Nome": "Mato Grosso do Sul",
-	"Casos": "7"
+	"Casos": "6",
+	"Mortes": "0"
 },
      {
 	"ID": "13",
-	"Sigla": "MT",
+	"Sigla": "BR-MT",
 	"Nome": "Mato Grosso",
-	"Casos": "0"
+	"Casos": "0",
+	"Mortes": "0"
 },
      {
 	"ID": "14",
-	"Sigla": "PA",
+	"Sigla": "BR-PA",
 	"Nome": "Pará",
-	"Casos": "1"
+	"Casos": "0",
+	"Mortes": "0"
 },
      {
 	"ID": "15",
-	"Sigla": "PB",
+	"Sigla": "BR-PB",
 	"Nome": "Paraíba",
-	"Casos": "1"
+	"Casos": "0",
+	"Mortes": "0"
 },
      {
 	"ID": "16",
-	"Sigla": "PE",
+	"Sigla": "BR-PE",
 	"Nome": "Pernambuco",
-	"Casos": "22"
+	"Casos": "19",
+	"Mortes": "0"
 },
      {
 	"ID": "17",
-	"Sigla": "PI",
+	"Sigla": "BR-PI",
 	"Nome": "Piauí",
-	"Casos": "0"
+	"Casos": "0",
+	"Mortes": "0"
 },
      {
 	"ID": "18",
-	"Sigla": "PR",
+	"Sigla": "BR-PR",
 	"Nome": "Paraná",
-	"Casos": "14"
+	"Mortes": "0"
 },
      {
 	"ID": "19",
-	"Sigla": "RJ",
+	"Sigla": "BR-RJ",
 	"Nome": "Rio de Janeiro",
-	"Casos": "63"
+	"Casos": "33",
+	"Mortes": "0"
 },
      {
 	"ID": "20",
-	"Sigla": "RN",
+	"Sigla": "BR-RN",
 	"Nome": "Rio Grande do Norte",
-	"Casos": "1"
+	"Casos": "1",
+	"Mortes": "0"
 },
      {
 	"ID": "21",
-	"Sigla": "RO",
+	"Sigla": "BR-RO",
 	"Nome": "Rondônia",
-	"Casos": "0"
+	"Casos": "0",
+	"Mortes": "0"
 },
      {
 	"ID": "22",
-	"Sigla": "RR",
+	"Sigla": "BR-RR",
 	"Nome": "Roraima",
-	"Casos": "0"
+	"Casos": "0",
+	"Mortes": "0"
 },
      {
 	"ID": "23",
-	"Sigla": "RS",
+	"Sigla": "BR-RS",
 	"Nome": "Rio Grande do Sul",
-	"Casos": "28"
+	"Casos": "19",
+	"Mortes": "0"
 },
      {
 	"ID": "24",
-	"Sigla": "SC",
+	"Sigla": "BR-SC",
 	"Nome": "Santa Catarina",
-	"Casos": "14"
+	"Casos": "7",
+	"Mortes": "0"
 },
      {
 	"ID": "25",
-	"Sigla": "SE",
+	"Sigla": "BR-SE",
 	"Nome": "Sergipe",
-	"Casos": "6"
+	"Casos": "5",
+	"Mortes": "0"
 },
      {
 	"ID": "26",
-	"Sigla": "SP",
+	"Sigla": "BR-SP",
 	"Nome": "São Paulo",
-	"Casos": "240"
+	"Casos": "164",
+	"Mortes": "0"
 },
      {
 	"ID": "27",
-	"Sigla": "TO",
+	"Sigla": "BR-TO",
 	"Nome": "Tocantins",
-	"Casos": "1"
+	"Casos": "0",
+	"Mortes": "0"
 }]
