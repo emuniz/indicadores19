@@ -2,7 +2,7 @@
     "ID": "1",
     "Sigla": "BR-BA",
     "Nome": "Salvador",
-    "Casos": "28",
+    "Casos": "37",
     "Mortes": "0",
     "placeId": "ChIJvS5CUCARFgcRndtzlTaEHPc"
 },
@@ -450,7 +450,7 @@
     "ID": "57",
     "Sigla": "BR-BA",
     "Nome": "Brumado",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJX6sNUOVLRAcRXfarxS6mV30"
 },
@@ -826,7 +826,7 @@
     "ID": "104",
     "Sigla": "BR-BA",
     "Nome": "Conceição do Jacuípe",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJU8q-5_EuFAcRz9HNe1j-22o"
 },
@@ -1706,7 +1706,7 @@
     "ID": "214",
     "Sigla": "BR-BA",
     "Nome": "Jequié",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJJWhnZT-vQAcRi4m9zrNwsZg"
 },
@@ -1746,7 +1746,7 @@
     "ID": "219",
     "Sigla": "BR-BA",
     "Nome": "Juazeiro",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJf1SByI1xcwcR3jRRjeQ5u7w"
 },
