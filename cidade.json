@@ -2,7 +2,7 @@
     "ID": "1",
     "Sigla": "BR-BA",
     "Nome": "Salvador",
-    "Casos": "23",
+    "Casos": "28",
     "Mortes": "0",
     "placeId": "ChIJvS5CUCARFgcRndtzlTaEHPc"
 },
@@ -290,7 +290,7 @@
     "ID": "37",
     "Sigla": "BR-BA",
     "Nome": "Barreiras",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJaa7UEK6KXwcRxbgtLDYPgZc"
 },
@@ -2490,7 +2490,7 @@
     "ID": "312",
     "Sigla": "BR-BA",
     "Nome": "Porto Seguro",
-    "Casos": "5",
+    "Casos": "8",
     "Mortes": "0",
     "placeId": "ChIJ_4a8SqmWNgcRD-iVnFL5fWc"
 },
