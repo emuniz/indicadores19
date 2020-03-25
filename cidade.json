@@ -2,7 +2,7 @@
     "ID": "1",
     "Sigla": "BR-BA",
     "Nome": "Salvador",
-    "Casos": "37",
+    "Casos": "48",
     "Mortes": "0",
     "placeId": "ChIJvS5CUCARFgcRndtzlTaEHPc"
 },
@@ -834,7 +834,7 @@
     "ID": "105",
     "Sigla": "BR-BA",
     "Nome": "Conde",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJB-VluPW4EAcRcsPDSmK1aSs"
 },
@@ -1050,7 +1050,7 @@
     "ID": "132",
     "Sigla": "BR-BA",
     "Nome": "Feira de Santana",
-    "Casos": "6",
+    "Casos": "8",
     "Mortes": "0",
     "placeId": "ChIJ-5oP8Y03FAcRpkpveYIP8LU"
 },
@@ -1746,7 +1746,7 @@
     "ID": "219",
     "Sigla": "BR-BA",
     "Nome": "Juazeiro",
-    "Casos": "1",
+    "Casos": "2",
     "Mortes": "0",
     "placeId": "ChIJf1SByI1xcwcR3jRRjeQ5u7w"
 },
@@ -3098,7 +3098,7 @@
     "ID": "388",
     "Sigla": "BR-BA",
     "Nome": "Teixeira de Freitas",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJ7xf0wKlGNQcRWxwfNx-Mjpk"
 },
