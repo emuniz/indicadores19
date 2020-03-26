@@ -2,7 +2,7 @@
     "ID": "1",
     "Sigla": "BR-BA",
     "Nome": "Salvador",
-    "Casos": "37",
+    "Casos": "63",
     "Mortes": "0",
     "placeId": "ChIJvS5CUCARFgcRndtzlTaEHPc"
 },
@@ -58,7 +58,7 @@
     "ID": "8",
     "Sigla": "BR-BA",
     "Nome": "Alagoinhas",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJzZ33ZEa8FgcRgPspuiwLdaI"
 },
@@ -602,7 +602,7 @@
     "ID": "76",
     "Sigla": "BR-BA",
     "Nome": "Canarana",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJbXvxh_gZaQcRBSrRTMwTrg4"
 },
@@ -834,7 +834,7 @@
     "ID": "105",
     "Sigla": "BR-BA",
     "Nome": "Conde",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJB-VluPW4EAcRcsPDSmK1aSs"
 },
@@ -2490,7 +2490,7 @@
     "ID": "312",
     "Sigla": "BR-BA",
     "Nome": "Porto Seguro",
-    "Casos": "8",
+    "Casos": "10",
     "Mortes": "0",
     "placeId": "ChIJ_4a8SqmWNgcRD-iVnFL5fWc"
 },
@@ -2818,7 +2818,7 @@
     "ID": "353",
     "Sigla": "BR-BA",
     "Nome": "São Domingos",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJvUWsSQhsEwcR9t-H0vXyTmg"
 },
@@ -3098,7 +3098,7 @@
     "ID": "388",
     "Sigla": "BR-BA",
     "Nome": "Teixeira de Freitas",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJ7xf0wKlGNQcRWxwfNx-Mjpk"
 },
