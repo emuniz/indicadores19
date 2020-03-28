@@ -1050,7 +1050,7 @@
     "ID": "132",
     "Sigla": "BR-BA",
     "Nome": "Feira de Santana",
-    "Casos": "6",
+    "Casos": "9",
     "Mortes": "0",
     "placeId": "ChIJ-5oP8Y03FAcRpkpveYIP8LU"
 },
@@ -1314,7 +1314,7 @@
     "ID": "165",
     "Sigla": "BR-BA",
     "Nome": "Ilhéus",
-    "Casos": "0",
+    "Casos": "2"
     "Mortes": "0",
     "placeId": "ChIJdyodez8KOQcR6kMZQCBZV_w"
 },
@@ -1338,7 +1338,7 @@
     "ID": "168",
     "Sigla": "BR-BA",
     "Nome": "Ipiaú",
-    "Casos": "0",
+    "Casos": "1",
     "Mortes": "0",
     "placeId": "ChIJT_9UlYqzOAcRNNjrEDVs8HE"
 },
@@ -1418,7 +1418,7 @@
     "ID": "178",
     "Sigla": "BR-BA",
     "Nome": "Itabuna",
-    "Casos": "1",
+    "Casos": "2",
     "Mortes": "0",
     "placeId": "ChIJ--IExB6rOQcRZysfWJNymsk"
 },
@@ -1746,7 +1746,7 @@
     "ID": "219",
     "Sigla": "BR-BA",
     "Nome": "Juazeiro",
-    "Casos": "1",
+    "Casos": "2",
     "Mortes": "0",
     "placeId": "ChIJf1SByI1xcwcR3jRRjeQ5u7w"
 },
@@ -1850,7 +1850,7 @@
     "ID": "232",
     "Sigla": "BR-BA",
     "Nome": "Lauro de Freitas",
-    "Casos": "3",
+    "Casos": "5",
     "Mortes": "0",
     "placeId": "ChIJaTn3Uxo-FgcRwiRNr3sBm90"
 },
